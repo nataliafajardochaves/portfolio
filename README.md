@@ -10,7 +10,7 @@ Visit my [LinkeIn](https://www.linkedin.com/in/nataliafajardochaves/) profile.
 
 ## Recent Work Experience
 **Mid+ Data Analyst**  
-Lean Tech · Contract  
+*Lean Tech · Contract*  
 Mar 2023 - Apr 2024 · 1 yr 2 months  
 Bogotá, Colombia · Remote  
 
@@ -21,7 +21,7 @@ with a maximum delay of 15 minutes.
 
 
 **Business Intelligence Expert**  
-UBITS · Full-time  
+*UBITS · Full-time*  
 Mar 2022 - Jan 2023 · 11 months  
 Bogotá, Colombia · Remote  
 
@@ -32,7 +32,7 @@ Bogotá, Colombia · Remote
 
 
 **Business Intelligence Senior Specialist**  
-UBITS · Full-time  
+*UBITS · Full-time*  
 Sep 2021 - Mar 2022 · 7 months   
 Bogotá, Colombia · Remote  
 
