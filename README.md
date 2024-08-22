@@ -6,7 +6,7 @@
 🧩 Database management with SQL Server Management Studio (SSMS).  
 👩🏻‍🎓 Currently a postgraduate student in Business Analytics.
 
-Visit my [LinkeIn](https://www.linkedin.com/in/nataliafajardochaves/) profile.
+Visit my [LinkedIn](https://www.linkedin.com/in/nataliafajardochaves/) profile.
 
 ## Recent Work Experience
 **Mid+ Data Analyst @ Lean Tech (Mar 2023 - Apr 2024)**  
@@ -22,7 +22,6 @@ with a maximum delay of 15 minutes.
 + Automated the ETL process for CRM data, achieving a 75% reduction in data consumption times.
 + Developed strategic insights for the marketing, sales, and operations teams, driving informed decision-making and cross-departmental collaboration.
 + Led the analysis of CRM data, extracting insights that boosted revenue growth approx. 25% within one year.
-+ Enhanced sales efficiency by creating four quarterly industry-specific reports, enabling the sales team to share valuable insights with customers during calls.
 + Earned a promotion within 7 months due to outstanding performance and significant organizational impact.
 
 ## Education
