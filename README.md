@@ -1,7 +1,6 @@
 # Data Analyst
 
-👩🏻‍💻 Data manipulation and analysis with Python, SQL and Excel.
-
+👩🏻‍💻 Data manipulation and analysis with Python, SQL and Excel.  
 📊 Data visualization and storytelling using Tableau, Power BI, and Looker Studio.
 
 📈 Marketing and consultancy experience across various industries.
