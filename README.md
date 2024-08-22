@@ -1,5 +1,5 @@
 # Data Analyst
-6+ years working in data analytics and business intelligence for marketing paired with consultancy experience across various industries.  
+6+ years working in data analytics and business intelligence for marketing and operations paired with consultancy experience across various industries.  
 
 👩🏻‍💻 Data manipulation and analysis with Python, SQL and Excel.  
 📊 Data visualization and storytelling using Tableau, Power BI, and Looker Studio.  
