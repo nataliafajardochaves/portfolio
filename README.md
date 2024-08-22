@@ -1,8 +1,8 @@
 # Data Analyst
+6+ years working in data analytics and business intelligence in narketing and consultancy experience across various industries.  
 
 👩🏻‍💻 Data manipulation and analysis with Python, SQL and Excel.  
 📊 Data visualization and storytelling using Tableau, Power BI, and Looker Studio.  
-📈 Marketing and consultancy experience across various industries.  
 🧩 Database management with SQL Server Management Studio (SSMS).  
 👩🏻‍🎓 Currently a postgraduate student in Business Analytics.
 
