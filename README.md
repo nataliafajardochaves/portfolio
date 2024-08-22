@@ -1,9 +1,13 @@
 # Data Analyst
 
-👩🏻‍💻 :woman_technologist_tone1: Data manipulation and analysis with Python, SQL and Excel.
+👩🏻‍💻 Data manipulation and analysis with Python, SQL and Excel.
+
 📊 Data visualization and storytelling using Tableau, Power BI, and Looker Studio.
+
 📈 Marketing and consultancy experience across various industries.
+
 🧩 Database management with SQL Server Management Studio (SSMS).
+
 👩🏻‍🎓 Currently a postgraduate student in Business Analytics.
 
 Visit my [LinkeIn](https://www.linkedin.com/in/nataliafajardochaves/) profile.
