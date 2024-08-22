@@ -8,7 +8,7 @@
 
 Visit my [LinkeIn](https://www.linkedin.com/in/nataliafajardochaves/) profile.
 
-## Work Experience
+## Recent Work Experience
 Mid+ Data Analyst
 Lean Tech · Contract
 Mar 2023 - Apr 2024 · 1 yr 2 months
@@ -35,17 +35,17 @@ Business Intelligence Senior Specialist
 UBITS · Full-time
 Sep 2021 - Mar 2022 · 7 months
 Bogotá, Colombia · Remote
-/
+
 + Designed and automated an API data pipeline for Looker, enabling users to access up-to-day daily information seamlessly.
 + Spearheaded the creation of a funnel of sales resulting in a 35% increase in the weekly lead generation base.
 + Earned a promotion within 7 months due to outstanding performance and significant organizational impact.
 
 ## Education
-Business Analytics and Insights Canadian Context – Graduate Certificate · Toronto, ON
-Centennial College – The Business School	May 2024-Present
+Business Analytics and Insights Canadian Context – Graduate Certificate · Toronto, ON   
+Centennial College · May 2024-Present
 
 
-Bachelor of Science Physics · Bogotá, Colombia 
-National University of Colombia	Aug 2011-Apr 2018
+Bachelor of Science Physics · Bogotá, Colombia  
+National University of Colombia ·	Aug 2011-Apr 2018
 
 ## Projects
