@@ -1,12 +1,10 @@
 # Data Analyst
-6+ years working in data analytics and business intelligence for marketing and operations paired with consultancy experience across various industries.  
+I'm a data analyst with experience in operations paired with consulting across various industries.  
 
-👩🏻‍💻 Data manipulation and analysis with Python, SQL and Excel.  
+👩🏻‍💻 Data manipulation and analysis with Python, R and SQL.  
 📊 Data visualization and storytelling using Tableau, Power BI, and Looker Studio.  
 🧩 Database management with SQL Server Management Studio (SSMS).  
-👩🏻‍🎓 Currently a postgraduate student in Business Analytics.
-
-Visit my [LinkedIn](https://www.linkedin.com/in/nataliafajardochaves/) profile.
+🔮 Prediction modelling algorithms.
 
 ## Recent Work Experience
 **Mid+ Data Analyst @ Lean Tech (Mar 2023 - Apr 2024)**  
