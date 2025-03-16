@@ -6,3 +6,5 @@ title: Natalia Fajardo
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
+sass:
+  style: compressed
