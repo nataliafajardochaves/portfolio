@@ -1,71 +1,80 @@
-header {
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* Header Section */
+.header {
   display: flex;
+  justify-content: center;
   align-items: center;
-  padding: 20px;
-  background-color: #f0f0f0; /* Optional: Add background color */
+  background-color: white;
+  padding: 40px 20px;
+  text-align: center;
 }
 
-.header-left {
+.header .header-content {
   display: flex;
-  flex-direction: column; /* Stack headshot and socials */
-  align-items: flex-start; /* Align items to the start (left) */
-  margin-right: 20px; /* Space between headshot/socials and text */
+  justify-content: center;
+  align-items: center;
+  max-width: 1200px;
+  width: 100%;
 }
 
-.headshot img {
-  width: 250px; /* Adjust size as needed */
-  height: 250px;
-  border-radius: 50%; /* Optional: Make it circular */
-  object-fit: cover; /*prevent image distortion*/
-}
-
-.socials {
-  display: flex;
-  margin-top: 10px; /* Space between headshot and socials */
-}
-
-.socials a {
-  margin-right: 10px; /* Space between social icons */
-  text-decoration: none; /* Remove underlines from links */
-}
-
-.socials img {
-  width: 30px; /* Adjust social icon size */
-  height: 30px;
-}
-
-.header-right {
+/* Headshot Styles */
+.headshot-container {
   display: flex;
   flex-direction: column;
-  align-items: flex-start; /* Align text to the left */
+  align-items: center;
+  margin-right: 20px;
 }
 
-.header-right h1 {
-  margin: 0; /* Remove default margins */
-  font-size: 2em; /* Adjust font size */
+.headshot {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-.header-right h2 {
-  margin: 5px 0 0 0; /* Adjust spacing */
-  font-size: 1.2em; /* Adjust font size */
-  color: #555; /* Optional: Change color */
+/* Social Icons Styles */
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 15px;
 }
 
-/* Responsive adjustments (optional) */
-@media (max-width: 768px) {
-  header {
-    flex-direction: column; /* Stack left and right on smaller screens */
-    align-items: center; /* Center items on smaller screens */
-    text-align: center; /*center text*/
-  }
+.social-icons a {
+  color: #333;
+  font-size: 28px;
+  text-decoration: none;
+  transition: color 0.3s, transform 0.3s;
+}
 
-  .header-left {
-    margin-right: 0;
-    margin-bottom: 10px; /*space between headshot and text when stacked*/
-    align-items: center;/*center headshot and socials*/
-  }
+.social-icons a:hover {
+  transform: scale(1.2);
+  color: #0073b1; /* LinkedIn color */
+}
 
-  .header-right {
-    align-items: center;
-  }
+/* Text Section */
+.text-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #333;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 1.4rem;
+  color: #777;
+  font-weight: 400;
 }
