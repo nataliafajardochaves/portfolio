@@ -1,62 +1,59 @@
-<style>
-    .banner {
-        display: flex; /* Use flexbox to lay out children in a row */
-        justify-content: space-between; /* Spreads out the elements (left and right sections) */
-        align-items: center; /* Vertically centers the content */
-        height: 250px; /* Adjust the banner height as needed */
-        background-image: url('https://nataliafajardochaves.github.io/portfolio/assets/img/banner_test.png');
-        background-size: cover;
-        background-position: center;
-        width: 100%;
-        padding: 0 20px; /* Adds some padding to the sides */
-    }
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
 
-    .banner-left {
-        display: flex;
-        flex-direction: column; /* Align the elements vertically */
-        align-items: center; /* Center the content horizontally */
-    }
+.banner {
+  display: flex;
+  justify-content: flex-start; /* Aligns content to the left */
+  align-items: flex-start; /* Aligns items to the top */
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+}
 
-    .headshot {
-        width: 120px; /* Set the width of the photo */
-        height: 120px; /* Set the height of the photo */
-        border-radius: 50%; /* Makes the image circular */
-        border: 4px solid white; /* Optional: Adds a white border around the photo */
-        margin-bottom: 20px; /* Adds space between the photo and social icons */
-    }
+.headshot-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 20px; /* Adjusts space between headshot and text */
+}
 
-    .social-icons {
-        display: flex;
-        justify-content: center; /* Center the social icons horizontally */
-    }
+.headshot {
+  width: 250px; /* Increased size of the headshot */
+  height: 250px; /* Increased size of the headshot */
+  border-radius: 50%;
+  object-fit: cover;
+}
 
-    .social-icons a {
-        margin: 0 10px; /* Adds space between each social icon */
-        font-size: 24px; /* Set the size of the icons */
-        color: white; /* Change color of the icons */
-        text-decoration: none; /* Remove underlines from links */
-    }
+.social-icons {
+  display: flex;
+  margin-top: 10px;
+}
 
-    .banner-right {
-        display: flex;
-        flex-direction: column; /* Align the elements vertically */
-        justify-content: center; /* Center the content vertically */
-        color: white; /* White text for visibility */
-    }
+.social-icons a {
+  margin: 0 10px;
+  font-size: 30px; /* Adjust icon size here */
+}
 
-    .banner-right h1 {
-        margin: 0;
-        font-size: 2em; /* Larger font for the name */
-    }
+.text-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Aligns text to the top */
+  align-items: flex-start; /* Aligns the text left */
+  text-align: left;
+}
 
-    .banner-right p {
-        margin: 5px 0;
-        font-size: 1.2em; /* Slightly smaller font for profession */
-    }
+h1 {
+  margin: 0;
+  font-size: 2rem;
+}
 
-    .banner-right h2 {
-        margin-top: 10px;
-        font-size: 1.1em; /* Font size for the tagline */
-        font-style: italic; /* Optional: Makes the tagline look more stylish */
-    }
-</style>
+h2 {
+  margin: 0;
+  font-size: 1.2rem;
+  color: #555;
+}
+
